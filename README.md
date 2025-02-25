@@ -12,7 +12,7 @@ SoundHound is a powerful AI-driven speaker verification tool that not only ident
 ## 🖼️ Speaker Spectrum Example  
 When processing an audio sample, SoundHound generates a **frequency spectrum image** representing the unique voice characteristics of each speaker. This visualization is powered by deep learning models analyzing the audio’s frequency components.  
 
-![Example Frequency Spectrum](https://your-image-link.com)  
+![Example Frequency Spectrum](SCREENSHOT.png)  
 
 ## 🎛️ How It Works  
 1. **Load a reference audio file** 🎙️  
